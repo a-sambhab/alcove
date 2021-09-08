@@ -25,7 +25,13 @@
     display: flex;
     width: 7;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
+}
+.shopsecmas{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     align-items: center;
 }
 .shopcard{
@@ -129,7 +135,30 @@
     top: 0px;
     opacity: 1;
 }
-
+.shopsecbut{
+    margin-top: 40px;
+    height: 2rem;
+    width: 10rem;
+    color: #fff;
+    text-decoration: none;
+    background-color: #32564C;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3),
+                0px -5px 15px -5px rgba(255, 255, 255, 0.1);
+    transition: all 0.3s;
+}
+.shopsecbut:hover{
+    border-radius: 5px;
+    background-color: #D77512;
+    color: #32564C;
+    font-weight: 700;
+    box-shadow: inset 0px 5px 5px -5px rgba(0, 0, 0, 0.3),
+                inset 0px -5px 15px -5px rgba(255, 255, 255, 0.3);
+}
 .svg-shopesection-topleftdiv{
     position: absolute;
     left: 10px;

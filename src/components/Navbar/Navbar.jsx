@@ -8,6 +8,7 @@ const Navbar = () => {
         setBurger(!Burger);
     }
     const scrolltop = () => {
+        setBurger(!Burger);
         window.scrollTo(0,0);
     }
     return(
@@ -18,20 +19,23 @@ const Navbar = () => {
             <div className="fullsecreennav">
            
             <div className = {Burger ? "navbar" : "closed"}>
-                <a onClick={Change}  href="#home" data="HOME" className="navele leftele">
+                {/* <a onClick={Change}  href="#home" data="HOME" className="navele leftele"> */}
                     <Link onClick={scrolltop} className="navele leftele" to='/'>HOME</Link>
-                </a>
-                <a onClick={Change}  href="#home" data="ABOUT" className="navele rightele">
+                {/* </a> */}
+                {/* <a onClick={Change}  href="#home" data="ABOUT" className="navele rightele"> */}
                 <Link  onClick={scrolltop} to='/aboutpage' data="ABOUT" className="navele rightele">
                     ABOUT
-                </Link> </a>
+                </Link> 
+                {/* </a> */}
                 {/* <a onClick={Change} href="#service" data="SERVICES" className="navele leftele">SERVICES</a> */}
-                <a onClick={Change}  href="#home" data="SERVICE" className="navele leftele">
+                {/* <a onClick={Change}  href="#home" data="SERVICE" className="navele leftele"> */}
                 <Link  onClick={scrolltop} to='/servicespage' data="SERVICE" className="navele leftele">
                     SERVICE
-                </Link> </a>
-                <a onClick={Change} href="./" data="SHOP" className="navele rightele">
-                <Link onClick={scrolltop} className="navele rightele" to='/shoppage' > SHOP </Link> </a>
+                </Link>
+                 {/* </a> */}
+                {/* <a onClick={Change} href="./" data="SHOP" className="navele rightele"> */}
+                <Link onClick={scrolltop} className="navele rightele" to='/shoppage' > SHOP </Link> 
+                {/* </a> */}
                 <a onClick={Change} href="./" data="REVIEWS" className="navele leftele">REVIEWS</a>
                 <a onClick={Change} href="./" data="CONTACT" className="navele rightele">CONTACT</a>
             </div>

@@ -4,9 +4,9 @@ import './about.css'
 import { Link } from 'gatsby';
 
 const About = () => {
-    const scrolltop = () => {
-        window.scrollTo(0,0);
-    }
+    // const scrolltop = () => {
+    //     window.scrollTo(0,0);
+    // }
     const [count, setCount] = useState(1);
 
   useEffect(() => {
@@ -40,7 +40,12 @@ const About = () => {
                     ""
                     )}
                     </div>
-                    <button className="knowmoreabout"> <Link style={{textDecoration: "none", color: "#32564C"}} to='./aboutpage' onClick={scrolltop}> Know More </Link></button>
+                    {/* <Link className="knowmoreabout" style={{textDecoration: "none", color: "#32564C"}} to='/aboutpage' onClick={scrolltop}>
+                    <button >  Know More </button>
+                    </Link> */}
+                    <Link  to="/aboutpage">
+                        <button className="knowmoreabout">Know More</button>
+                    </Link>
                 </div>
             
             

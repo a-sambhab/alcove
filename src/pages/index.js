@@ -1,5 +1,5 @@
-import React from "react"
-// import TextTransition, {presets} from "react-text-transition"
+import React, {useState} from "react"
+import TextTransition, {presets} from "react-text-transition"
 import About from "../components/About/About"
 import Services from "../components/Services/Services"
 import Shop from "../components/Shop/Shop"
@@ -8,15 +8,21 @@ import '../style/landing.css'
 
 
 export default function Home() {
-  // const [state, setstate] = useState(0);
+    const Text = [
+        "Dynamic",
+        "Dreams",
+        "Design"
+      ];
 
-  //   React.useEffect(() => {
-  //       const intervalId = setInterval(() =>
-  //           setstate(state => state + 1),
-  //           2000 // every 2 seconds
-  //           );
-  //           return () => clearTimeout(intervalId);
-  //       }, []);
+  const [state, setstate] = useState(0);
+
+    React.useEffect(() => {
+        const intervalId = setInterval(() =>
+            setstate(state => state + 1),
+            2000 // every 2 seconds
+            );
+            return () => clearTimeout(intervalId);
+        }, []);
   return (
     <>
     <Layout>
@@ -26,10 +32,10 @@ export default function Home() {
     <div className="text-box-landing">
         <div className="heading-landing"><h1>ALCOVE</h1></div>
         <div className="subheading-landing"><h2>
-            {/* <TextTransition
+            <TextTransition
                 text={ Text[state % Text.length]}
                 springConfig={presets.gentle}
-            /> */}
+            />
         </h2></div>
     </div>
     <div className="svg-landingpage-bottomleftdiv"><img className="svg-landingpage-bottomleft" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630684569/alcove/landing_page_left_bottom_f11x1w.svg" alt=""/></div>
