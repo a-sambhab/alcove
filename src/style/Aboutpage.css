@@ -597,7 +597,47 @@ color: #97ABA6;
 @media (max-width: 850px){
     .latestproject1 {
         width: auto;
-        height: 400px;
+        height: 250px;
+        padding: 1rem;
+    }
+
+    .heading-latest-projects{
+        font-size: 24px;
+        line-height: 4.3rem;
+        padding-bottom: 0.2rem;
+    }
+
+    .subheading-latest-projects{
+        font-size: 20px;
+    }
+
+    .textbox-latest-projects {
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px){
+    .latestprojects{
+        display: flex;
+        flex-direction: column;
+    }
+    .topsection-box, .bottomsection-box{
+        display: flex;
+        flex-direction: column;  
+        align-items: center;
+        justify-content: center;
+    }
+
+    .leftbox-latest-projects {
+        width: 80%;
+        
+    }
+}
+
+@media (max-width: 450px){
+    .latestproject1 {
+        width: auto;
+        height: 200px;
         padding: 1rem;
     }
 }
