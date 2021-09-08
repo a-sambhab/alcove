@@ -1,3 +1,4 @@
+import { Link } from 'gatsby';
 import React from 'react';
 import './shop.css';
 import Shopcard from './Shopcard';
@@ -35,6 +36,7 @@ const Shop = () => {
                 <div className="shopsechead">
                     <h1>shop</h1>
                 </div>
+                <div className="shopsecmas">
                 <div className="shopseccon">
                     {Shopsecdata.map(function ncards(val){
                         return(
@@ -46,6 +48,10 @@ const Shop = () => {
                             />
                         )
                     })}
+                </div>
+                <Link to="/shoppage">
+                     <button className="shopsecbut">More Products</button>
+                </Link>
                 </div>
 
             </div>

@@ -13,7 +13,7 @@ const Servdata = [
     },
     {
         img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630336129/alcove/SERVICES_3_ijmtfu.jpg",
-        text:"furnishing"
+        text:"renovation"
     }
 ]
 
