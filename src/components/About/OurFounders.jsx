@@ -37,9 +37,9 @@ const Foundata = [
         founimg:"https://res.cloudinary.com/webwiznitr/image/upload/v1628944049/webwiz-portfolio/team-images/team-webwiz/kumar%20shantanu.jpg",
         name:"Kumar Shantanu",
         desig:"Co-Founder",
-        gith:"https://github.com/a-sambhab",
-        insta:"https://www.instagram.com/a_sambhab/",
-        linked:"https://www.linkedin.com/mwlite/in/sai-sambhab-chaini-1a5877210"
+        gith:"https://github.com/kumarshantanu01",
+        insta:"https://www.instagram.com/kumar_shantanu_01/",
+        linked:"https://www.linkedin.com/in/kumar-shantanu01/"
     }
 ]
 
@@ -48,9 +48,9 @@ const OurFounders = () => {
         <>
             <div className="our-founders">
                 <div className="text-ourfounder">
-                <div className="heading-ourfounder">
-                    <h1>OUR</h1>
-                    <h1>FOUNDERS</h1>
+                    <div className="heading-ourfounder">
+                        <h1>OUR</h1>
+                        <h1>FOUNDERS</h1>
                     </div>
                 </div>
                 <div className="aboutfoun">
@@ -71,5 +71,5 @@ const OurFounders = () => {
         </>
     );
 }
-//founders section added
+
 export default OurFounders;
