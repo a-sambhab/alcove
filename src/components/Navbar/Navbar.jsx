@@ -36,8 +36,8 @@ const Navbar = () => {
                 {/* <a onClick={Change} href="./" data="SHOP" className="navele rightele"> */}
                 <Link onClick={scrolltop} className="navele rightele" to='/shoppage' > SHOP </Link> 
                 {/* </a> */}
-                <a onClick={Change} href="./" data="REVIEWS" className="navele leftele">REVIEWS</a>
-                <a onClick={Change} href="./" data="CONTACT" className="navele rightele">CONTACT</a>
+                <a onClick={Change} href="#review" data="REVIEWS" className="navele leftele">REVIEWS</a>
+                <a onClick={Change} href="#contact" data="CONTACT" className="navele rightele">CONTACT</a>
             </div>
             
             </div>

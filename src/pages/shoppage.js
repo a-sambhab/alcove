@@ -1,6 +1,7 @@
 import React from 'react';
 import Shopcard from '../components/Shop/Shopcard';
 import Layout from '../components/Layout';
+import { Seo } from '../components/Seo';
 import "../style/shoppage.css";
 
 const Lightdata = [
@@ -141,6 +142,10 @@ const ShopPage = () => {
     return(
         <>
         <Layout>
+        <Seo
+            title="Shop || Alcove ISTEBITS"
+            description="Shop from a range of assorted Decor Products"
+        />
             <div className="shoplanding">
             <div className="topsection-servicespage">
                 <div className="image-box-topsection-servicespage">

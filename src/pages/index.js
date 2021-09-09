@@ -4,9 +4,42 @@ import About from "../components/About/About"
 import Services from "../components/Services/Services"
 import Shop from "../components/Shop/Shop"
 import Layout from "../components/Layout"
+import { Seo } from "../components/Seo"
+import Review from "../components/Review/Review"
 import '../style/landing.css'
 
-
+const Infobox = (props) => {
+    return(
+        <>
+            <div className={props.classn}>
+                <span className="infohead">{props.infohead}</span>
+                <span className="infocon">{props.infocon}</span>
+            </div>
+        </>
+    );
+}
+const Infodet = [
+    {
+        infohead:"$5.2 M",
+        infocon:"Worth Revenue",
+        classn:"infobox"
+    },
+    {
+        infohead:"5.6K+",
+        infocon:"Homes Built",
+        classn:"infobox"
+    },
+    {
+        infohead:"200K+",
+        infocon:"Happy Clients",
+        classn:"infobox"
+    },
+    {
+        infohead:"4.8/5",
+        infocon:"Review",
+        classn:"infobox last"
+    },
+]
 export default function Home() {
     const Text = [
         "Dynamic",
@@ -26,6 +59,10 @@ export default function Home() {
   return (
     <>
     <Layout>
+    <Seo
+        title="Alcove ISTEBITS"
+        description="We provide Design Solutions for Interior Decor"
+    />
       <div id="home" className="landing">
 
     <div className="left-landing">
@@ -50,27 +87,21 @@ export default function Home() {
 </div>
 
 <div className="bottom-info">
-    <div className="infobox">
-        <span className="infohead">$5.2 M</span>
-        <span className="infocon">Worth Revenue</span>
-    </div>
-    <div className="infobox">
-        <span className="infohead">5.6K+</span>
-        <span className="infocon">Homes Built</span>
-    </div>
-    <div className="infobox">
-        <span className="infohead">200K+</span>
-        <span className="infocon">Happy Clients</span>
-    </div>
-    <div className="infobox last">
-        <span className="infohead">4.8</span>
-        <span className="infocon">Review</span>
-    </div>
+    {Infodet.map(function map(val){
+        return(
+            <Infobox
+                classn={val.classn}
+                infocon={val.infocon}
+                infohead={val.infohead}
+            />
+        );
+    })}
 </div>
 </div>
 <About/>
 <Services/>
 <Shop/>
+<Review/>
 </Layout>
     </>
   )

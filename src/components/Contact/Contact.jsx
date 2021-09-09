@@ -4,7 +4,7 @@ import './Contact.css'
 const Contact = () => {
     return(
         <>
-            <div className="contact-section">
+            <div id="contact" className="contact-section">
             <div className="svg-contactsection-topleftdiv"><img classname="svg-contactsection-topleft" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630684569/alcove/orange_top_left_z7kpbg.svg" alt=""/></div>
             {/* <div className="svg-contactsection-bottomleftdiv"><img classname="svg-contactsection-bottomleft" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630692974/alcove/contact_bottom_left_lsopfe.svg" alt=""/></div> */}
                 <div className="left-section-contact">
