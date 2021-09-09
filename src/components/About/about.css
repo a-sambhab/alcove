@@ -71,7 +71,16 @@
     align-items: center;
     z-index: -2;
 }
-.about-head{
+.heading-landing-about-head{
+    font-family: "Big Shoulders Display", cursive;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 74px;
+        line-height: 142px;
+        letter-spacing: 0.085em;
+        margin-bottom: 50px;
+        color: rgb(50, 86, 76);
+
     text-transform: uppercase;
     text-align: center;
     margin-left: 10%;
@@ -121,3 +130,132 @@
     /* z-index: 100; */
     left: 10px;
 }
+
+@media(max-width: 1500px){
+
+
+.heading-landing-about-head{
+    margin-left: 0%;
+    margin-right: 0%;
+    }
+}
+
+@media(max-width: 1400px){
+
+    .heading-landing-about-head{
+        font-size: 64px;
+        line-height: 122px;
+        letter-spacing: 0.085em;
+        margin-bottom: 30px;
+    }
+
+    #about1{
+        width: 19rem;
+        height: 12rem;
+        margin-top: 60px;
+        margin-right: -20px;
+    }
+    #about2{
+        margin-top: 20px;
+        width: 12rem;
+        height: 19rem;
+    }
+    #about3{
+        margin-top: -40px;
+        margin-right: -20px;
+        width: 12rem;
+        height: 19rem;
+        z-index: 10;
+    }
+    #about4{
+        margin-top: 20px;
+        width: 19rem;
+        height: 12rem;
+        z-index: 10;
+    }
+
+    .aboutdesign{
+        height: 7.5rem;
+    } 
+}
+
+@media(max-width: 1250px){
+    .aboutdesign{
+        display: none;
+    } 
+
+    .svg-aboutsection-topleftdiv{
+        display: none;
+    }
+
+    .heading-landing-about-head{
+        font-size: 54px;
+        line-height: 122px;
+        letter-spacing: 0.085em;
+        margin-bottom: 30px;
+    }
+
+    .aboutleft img {
+        width: 7rem;
+        height: 7rem;
+        /* margin: 15px; */
+        margin-left: 30px;
+        /* margin-top: 30px; */
+    }
+
+}
+
+@media(max-width: 1100px){
+    .aboutsection{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .heading-landing-about-head{
+        font-size: 44px;
+        line-height: 122px;
+        letter-spacing: 0.085em;
+        margin-bottom: 20px;
+    }
+
+    .aboutright, .aboutleft{
+        width: 100%;
+        height: fit-content;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .aboutright{
+        padding: 2rem;
+    }
+
+}   
+
+@media(max-width: 500px){
+    .heading-landing-about-head{
+        font-size: 34px;
+        line-height: 102px;
+        letter-spacing: 0.065em;
+        margin-bottom: 20px;
+    }
+
+    .aboutcon {
+        margin: 15px;
+        margin-top: 20px;
+        margin-bottom: 5%;
+        font-size: 30px;
+        color: #eaeaea;
+        text-transform: capitalize;
+    }
+
+    #about3{
+        margin-top: 18px;
+        margin-right: -20px;
+        width: 12rem;
+        height: 19rem;
+        z-index: 10;
+    }
+}
+
