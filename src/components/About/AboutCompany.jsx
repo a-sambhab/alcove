@@ -16,10 +16,10 @@ const AboutCompany = () => {
 
             <div className="aboutcompany-rightbox">
                 <div className="aboutcompany-rightbox-text1">
-                    <p>A company, abbreviated as co., is a legal entity representing an association of people, whether natural, legal or a mixture of both, with a specific objective. Company members share a common purpose and unite to achieve specific, declared goals.</p>
+                    <p>Alcove Interior Design, based in Rourkela since 2021, is a full-service interior design firm that specialises in both residential and business design. We have relationships with many local craftsmen and subcontractors, so you can be assured that your project is completed with the highest standards. </p>
                 </div>
                 <div className="aboutcompany-rightbox-text2">
-                    <p>A company, abbreviated as co., is a legal entity representing an association of people, whether natural, legal or a mixture of both, with a specific objective. Company members share a common purpose and unite to achieve specific, declared goals.</p>
+                    <p>Whether you require a simple refresh of furniture and paint colours or a comprehensive whole-house makeover, we have the experience to ensure that the project works smoothly and achieves the best potential outcomes.</p>
                 </div>
             </div>
 

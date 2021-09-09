@@ -149,3 +149,15 @@ letter-spacing: 0.15em;
     color: #97ABA6;
     transform: translateX(5rem);
 }
+@media (max-width:600px){
+    .navele{
+        font-size: 60px;
+        margin: 10px 5px;
+    }
+    .leftele{
+        transform: translateX(0);
+    }
+    .rightele{
+        transform: translateX(0);
+    }
+}
