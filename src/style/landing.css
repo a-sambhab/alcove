@@ -135,6 +135,10 @@ transform: rotate(-90deg);
     overflow: hidden;
 }
 
+.infocon{
+    font-size: 20px;
+}
+
 /* scroll bar */
 
 body::-webkit-scrollbar-track
