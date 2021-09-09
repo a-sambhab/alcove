@@ -87,6 +87,65 @@
     /* top: 10px; */
 }
 
+@media (max-width: 1500px){
+    .servicecard span{
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 1300px){
+    .servicecard span{
+        font-size: 2.1rem;
+    }
+}
+
+@media (max-width: 1200px){
+    .servicecard img {
+        width: 60%;
+        height: 75%; 
+    }
+    
+    .servicehead {
+        font-size: 45px;
+        padding-bottom: 2.5%;
+        letter-spacing: 1.5rem;
+    }
+
+    .servicecon {
+        display: grid;
+        background-color: #32564C;
+        grid-template-columns: 0.5fr 0.5fr 0.5fr;
+        
+    }
+}
+
+@media (max-width: 1200px){
+    .servicecon {
+        
+        grid-template-columns: none;
+        
+    }
+
+    .svg-servicesection-topleftdiv {
+        display: none;
+    }
+}
+
+@media (max-width: 900px){
+    .servicehead {
+        font-size: 35px;
+        padding-bottom: 2.5%;
+        letter-spacing: 0.5rem;
+    }
+}
+
+@media (max-width: 700px){
+    .servicehead {
+        font-size: 30px;
+        padding-bottom: 2.5%;
+        letter-spacing: 0.5rem;
+    }
+}
 
 /* #serimg1:hover, #serimg2:hover, #serimg3:hover{
     transform: scale(1.1);
