@@ -4,7 +4,8 @@
     width: 100%;
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    /* justify-content: flex-start; */
+    justify-content: center;
     align-items: center;
     font-family: Big Shoulders Display;
     background-color: #74897F;
@@ -142,7 +143,7 @@
     color: #fff;
     text-decoration: none;
     background-color: #32564C;
-    border-radius: 30px;
+    border-radius: 0px;
     border: none;
     cursor: pointer;
     text-transform: uppercase;
@@ -175,3 +176,80 @@
     /* right: 19px; */
     padding-top: 37.5rem;
 }
+
+@media (max-width: 1400px){
+
+    .shopcard {
+        width: 290px;
+        height: 380px;
+    }
+}
+
+@media (max-width: 1230px){
+    .shopcard {
+        width: 260px;
+        height: 340px;
+    }
+}
+
+@media (max-width: 1130px){
+    .shopsec{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .shopsechead{
+        transform: rotate(0deg);
+        padding-bottom: 1rem;
+    }
+}
+
+@media (max-width: 850px){
+    .shopcard {
+        width: 220px;
+        height: 300px;
+    }
+}
+
+@media (max-width: 800px){
+    .shopcard {
+        width: 270px;
+        height: 350px;
+    }
+
+    .shopseccon{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .shopsec{
+        height: fit-content;
+    }
+
+    .shoppage-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+    }
+
+    .shopsecbut{
+        margin-top: 0px;
+    }
+
+    .svg-shopesection-topleftdiv{
+        display: none;
+    }
+
+
+    
+}
+
+@media (max-width: 550px){
+    .shopsechead{
+        font-size: 30px;
+    }
+}
+
+
