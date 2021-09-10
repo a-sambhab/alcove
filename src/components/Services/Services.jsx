@@ -4,15 +4,15 @@ import Servicecard from './Servicecard';
 
 const Servdata = [
     {
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630335984/alcove/SERVICES_1_cwicic.jpg",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631267986/Alcove%20spider/services01_t0ai8u.jpg",
         text:"furnishing"
     },
     {
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630335974/alcove/SERVICES_2_ckhnkl.jpg",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631267987/Alcove%20spider/services02_jqla72.jpg",
         text:"consulting"
     },
     {
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630336129/alcove/SERVICES_3_ijmtfu.jpg",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631267986/Alcove%20spider/services03_2_ifn9bk.jpg",
         text:"renovation"
     }
 ]

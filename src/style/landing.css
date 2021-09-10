@@ -17,7 +17,7 @@
 .left-landing{
     width: 50%;
     height: 100vh;
-    background-color: #97ABA6;
+    background-color: #A1C7C5;
 }
 
 
@@ -37,7 +37,7 @@ font-size: 74px;
 line-height: 172px;
 letter-spacing: 0.085em;
 margin-bottom: 50px;
-color: #32564C;
+color: #2A615E;
 }
 
 .subheading-landing{
@@ -48,13 +48,13 @@ font-weight: 100;
 font-size: 50px;
 text-transform: uppercase;
 line-height: 4rem;
-color: #32564C;
+color: #2A615E;
 }
 
 .right-landing{
     width: 50%;
 
-    background-color: #32564C;
+    background-color: #2A615E;
     display: flex;
     flex-direction: row;
 }
@@ -84,7 +84,7 @@ font-style: normal;
 font-weight: bold;
 line-height: 320px;
 letter-spacing: 0.4em;
-color: #97ABA6;
+color: #A1C7C5;
 /* overflow: visible; */
 opacity: 0.15;
 transform: rotate(-90deg);
@@ -158,7 +158,7 @@ body::-webkit-scrollbar-thumb
 {
 	border-radius: 0px;
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-	background-color: #32564C;
+	background-color: #2A615E;
 }
 
 @media(max-width: 1400px){
@@ -247,7 +247,7 @@ body::-webkit-scrollbar-thumb
         font-weight: bold;
         line-height: 320px;
         letter-spacing: 0.4em;
-        color: #97ABA6;
+        color: #A1C7C5;
         /* overflow: visible; */
         opacity: 0.15;
         transform: rotate(0deg);
@@ -311,6 +311,7 @@ body::-webkit-scrollbar-thumb
 
     .infohead{
         margin-bottom: 0.5rem;
+        font-size: 25PX;
     }
 
     .infocon{

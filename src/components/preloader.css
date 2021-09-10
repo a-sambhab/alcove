@@ -20,3 +20,12 @@
          transform: scale(2);
 } 
 }
+
+@media(max-width: 600px){
+    .loader{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 55%;
+    }
+}

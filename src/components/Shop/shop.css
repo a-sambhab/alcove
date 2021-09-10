@@ -8,13 +8,13 @@
     justify-content: center;
     align-items: center;
     font-family: Big Shoulders Display;
-    background-color: #74897F;
+    background-color: #A1C7C5;
 }
 .shopsechead{
     transform: rotate(-90deg);
     font-size: 60px;
     /* text-decoration: underline; */
-    color: #32564C;
+    color: #2A615E;
     letter-spacing: 25px;
     text-transform: uppercase;
 }
@@ -39,7 +39,7 @@
     position: relative;
     width: 320px;
     height: 420px;
-    background: #32564C;
+    background: #2A615E;
     /* border-radius: 2px; */
     overflow: hidden;
     display: flex;
@@ -120,7 +120,7 @@
     margin-top: 15px;
     color: #fff;
     text-decoration: none;
-    background-color: #74897F;
+    background-color: #A1C7C5;
     border-radius: 30px;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -142,7 +142,7 @@
     width: 10rem;
     color: #fff;
     text-decoration: none;
-    background-color: #32564C;
+    background-color: #2A615E;
     border-radius: 0px;
     border: none;
     cursor: pointer;
@@ -155,7 +155,7 @@
 .shopsecbut:hover{
     border-radius: 5px;
     background-color: #D77512;
-    color: #32564C;
+    color: #2A615E;
     font-weight: 700;
     box-shadow: inset 0px 5px 5px -5px rgba(0, 0, 0, 0.3),
                 inset 0px -5px 15px -5px rgba(255, 255, 255, 0.3);

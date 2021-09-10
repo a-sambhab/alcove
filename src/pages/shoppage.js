@@ -149,7 +149,7 @@ const ShopPage = () => {
             <div className="shoplanding">
             <div className="topsection-servicespage">
                 <div className="image-box-topsection-servicespage">
-                <img className="image-top-servicespage" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630394917/alcove/aboutpage_image_2_imqvie.png" alt="aboutpage"/>
+                <img className="image-top-servicespage" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631271061/Alcove%20spider/pexels-vecislavas-popa-1571460_xbrc6x.jpg" alt="aboutpage"/>
                 </div>
                 <h1>Decor Shop </h1>
             </div>

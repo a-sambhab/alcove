@@ -9,6 +9,8 @@ import Review from "../components/Review/Review"
 import '../style/landing.css'
 import Preloader from "../components/Preloader"
 
+// ISTE BITS
+
 const Infobox = (props) => {
     return(
         <>
@@ -86,7 +88,7 @@ export default function Home() {
                     </h2>
                 </div>
         </div>
-    <div className="image-box-right-landing"><img className="image-right-landing" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630352710/alcove/landing_2_mtdftd.jpg" alt="landing"></img></div>
+    <div className="image-box-right-landing"><img className="image-right-landing" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631267986/Alcove%20spider/landing1_1_t43slm.jpg" alt="landing"></img></div>
     <div className="svg-landingpage-bottomleftdiv"><img className="svg-landingpage-bottomleft" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630684569/alcove/landing_page_left_bottom_f11x1w.svg" alt=""/></div>
 
 </div>

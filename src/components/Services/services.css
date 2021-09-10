@@ -18,7 +18,7 @@
     font-size: 65px;
     padding-bottom: 2.5%;
     letter-spacing: 1.5rem;
-    background-color: #32564C;
+    background-color: #2A615E;
     color: #D77512;
     /* font-family: ; */
     /* font-size: 200px; */
@@ -27,12 +27,12 @@
     width: 100vw;
     height: 100%;
     display: grid;
-    background-color: #32564C;
+    background-color: #2A615E;
     grid-template-columns: 1fr 1fr 1fr;
     /* padding-bottom: 4%; */
 }
 .servicecard{
-    background-color: #32564C;
+    background-color: #2A615E;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -113,7 +113,7 @@
 
     .servicecon {
         display: grid;
-        background-color: #32564C;
+        background-color: #2A615E;
         grid-template-columns: 0.5fr 0.5fr 0.5fr;
         
     }

@@ -7,11 +7,11 @@ const LatestProjects = () => {
             <div className="topsection-latestprojects">
                 <div className="topsection-box">
                     <div className="leftbox-latest-projects">
-                    <img className="latestproject1" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630432957/alcove/pexels-houzlook-com-3797991_azbok0.jpg" alt="" />
+                    <img className="latestproject1" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631269453/Alcove%20spider/about_4_2_ofvsyn.jpg" alt="" />
                         
                     </div>
                     <div className="rightbox-latest-projects">
-                        <img className="latestproject1" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630432954/alcove/about_4_yaitoy.jpg" alt="" />
+                        <img className="latestproject1" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631269454/Alcove%20spider/roberto-nickson-bwIqQ5qQhXs-unsplash_t5nhr2.jpg" alt="" />
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@ const LatestProjects = () => {
                         </div>
                     </div>
                     <div className="rightbox-latest-projects">
-                    <img className="latestproject1" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630432960/alcove/r-architecture-TRCJ-87Yoh0-unsplash_faxyel.jpg" alt="" />
+                    <img className="latestproject1" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631269454/Alcove%20spider/r-architecture-TRCJ-87Yoh0-unsplash_savivi.jpg" alt="" />
                     </div>
                 </div>
             </div>

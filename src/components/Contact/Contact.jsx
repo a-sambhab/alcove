@@ -41,7 +41,7 @@ const Contact = () => {
 
                             <div className="text-box3">
                                 <div className="heading-text-box3"><h1>ADDRESS</h1></div>
-                                <div className="subheading-text-box3"><h2>Chandni Chowk, New Delhi, 800001</h2></div>
+                                <div className="subheading-text-box3"><h2>NIT Rourkela, Rourkela, 769001</h2></div>
                             </div>
 
                         {/* </div> */}
