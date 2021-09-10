@@ -7,6 +7,7 @@ import Layout from "../components/Layout"
 import { Seo } from "../components/Seo"
 import Review from "../components/Review/Review"
 import '../style/landing.css'
+import Preloader from "../components/Preloader"
 
 const Infobox = (props) => {
     return(
@@ -46,7 +47,13 @@ export default function Home() {
         "Dreams",
         "Design"
       ];
+      const [loading, setLoading] = useState(true)
 
+    React.useEffect(() => {
+        setTimeout(() => {
+            setLoading(false)
+        }, 2000)
+    }, [])
   const [state, setstate] = useState(0);
 
     React.useEffect(() => {
@@ -56,7 +63,9 @@ export default function Home() {
             );
             return () => clearTimeout(intervalId);
         }, []);
-  return (
+  return loading ?(
+      <Preloader/>
+  ) : (
     <>
     <Layout>
     <Seo

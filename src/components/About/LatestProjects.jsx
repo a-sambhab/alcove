@@ -24,7 +24,7 @@ const LatestProjects = () => {
                             <h1>LATEST</h1> 
                             <h1>PROJECTS</h1></div>
                             <div className="subheading-latest-projects">
-                            <p>A company, abbreviated as co., is a legal entity representing an association of people, whether natural, legal or a mixture of both, with a specific objective. Company members share a common purpose and unite to achieve specific, declared goals.</p>
+                            <p>Alcove will talk to local authorities, landlords and other interested parties, as well as you the client, to discover the breadth (and limitations) of your project.</p>
                             </div>
                         </div>
                     </div>

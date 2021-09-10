@@ -28,7 +28,7 @@ const OurDesigners = () => {
                     </div>
                     
                     <div className="subheading-ourdesigners">
-                        <p>A company, abbreviated as co., is a legal entity representing an association of people, whether natural, legal or a mixture of both, with a specific objective. Company members share a common purpose and unite to achieve specific, declared goals.A company, abbreviated as co., is a legal entity representing an association of people, whether natural, legal or a mixture of both, with a specific objective.</p>
+                        <p>Our role is to ensure the comforts of home are unique to you by offering a seamless interior design service that focuses on bespoke, considered interiors which encapsulate your dreams. We Provide clients with value for money and don’t overcharge, especially in the beginning. Our designers believe in the power of elegant minimalism in a world increasingly saturated with garish colour.</p>
                     </div>
                 </div>
             </div>
