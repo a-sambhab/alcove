@@ -256,6 +256,19 @@
         width: 12rem;
         height: 19rem;
         z-index: 10;
+        display: none;
+    }
+
+    #about2{
+        display: none;
+    }
+
+    #about1{
+        margin-right: 0px;
+    }
+
+    .aboutleft{
+        padding-right: 3rem;
     }
 }
 

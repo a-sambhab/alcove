@@ -9,6 +9,8 @@ import Review from "../components/Review/Review"
 import '../style/landing.css'
 import Preloader from "../components/Preloader"
 
+// ISTE BITS
+
 const Infobox = (props) => {
     return(
         <>

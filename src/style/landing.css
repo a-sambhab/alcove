@@ -311,6 +311,7 @@ body::-webkit-scrollbar-thumb
 
     .infohead{
         margin-bottom: 0.5rem;
+        font-size: 25PX;
     }
 
     .infocon{
