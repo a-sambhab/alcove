@@ -16,7 +16,7 @@ const Servdata = [
         item2def:"We connect you to local vendors with the best quality",
         item3:"It fits your needs",
         item3def:"All work is supervised by the person it should matter: YOU",
-        secimg:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630916434/alcove/pexels-dayvison-de-oliveira-silva-5696287_2_tihdsc.png"
+        secimg:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631270475/Alcove%20spider/003_1_sqj9us.jpg"
     },
     {
         secclass:"topsection-section2",
@@ -30,7 +30,7 @@ const Servdata = [
         item2def:"We connect you to local vendors with the best quality",
         item3:"It fits your needs",
         item3def:"All work is supervised by the person it should matter: YOU",
-        secimg:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630916434/alcove/pexels-dayvison-de-oliveira-silva-5696287_2_tihdsc.png"
+        secimg:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631270547/Alcove%20spider/85472_v1cqgr.png"
     },
     {
         secclass:"topsection-section1",
@@ -44,7 +44,7 @@ const Servdata = [
         item2def:"We connect you to local vendors with the best quality",
         item3:"It fits your needs",
         item3def:"All work is supervised by the person it should matter: YOU",
-        secimg:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630916434/alcove/pexels-dayvison-de-oliveira-silva-5696287_2_tihdsc.png"
+        secimg:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631270475/Alcove%20spider/04_1_vzpmfl.jpg"
     },
 ]
 
@@ -95,7 +95,7 @@ const ServicesPage =() => {
         <div className="servicespage">
             <div className="topsection-servicespage">
                 <div className="image-box-topsection-servicespage">
-                <img className="image-top-servicespage" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630394917/alcove/aboutpage_image_2_imqvie.png" alt="aboutpage"/>
+                <img className="image-top-servicespage" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631269579/Alcove%20spider/pexels-houzlook-com-3797991_pnl0gz.jpg" alt="aboutpage"/>
                 </div>
                 <h1>Services </h1>
             </div>

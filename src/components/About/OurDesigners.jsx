@@ -8,14 +8,14 @@ const OurDesigners = () => {
                 <div className= "ourdesigners-leftbox-images">
                     <div className="ourdesigners-image">
                         {/* <div className="top-ourdesigners-image"> */}
-                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630409666/alcove/pexels-george-milton-7034741_co8s9a.jpg" alt=""></img>
-                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630409614/alcove/pexels-teddy-joseph-2955376_zxccoh.jpg" alt=""></img>
-                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630409611/alcove/pexels-anthony-shkraba-4348405_wng4ab.jpg" alt=""></img>
+                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631268771/Alcove%20spider/pexels-george-milton-7034741_r66b4t.jpg" alt=""></img>
+                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631268771/Alcove%20spider/pexels-tony-schnagl-5588209_metle3.jpg" alt=""></img>
+                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631268771/Alcove%20spider/pexels-michael-burrows-7147701_c4xups.jpg" alt=""></img>
                         {/* </div> */}
                         {/* <div className="bottom-ourdesigners-image"> */}
-                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630409801/alcove/pexels-michael-burrows-7147701_x1sbvh.jpg" alt=""></img>
-                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630410564/alcove/pexels-ekaterina-bolovtsova-4049870_uhpdo9.jpg" alt=""></img>
-                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630410571/alcove/pexels-tony-schnagl-5588209_qu87y2.jpg" alt=""></img>
+                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631268771/Alcove%20spider/pexels-anthony-shkraba-4348405_dtl3sg.jpg" alt=""></img>
+                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631268771/Alcove%20spider/pexels-teddy-joseph-2955376_lf4680.jpg" alt=""></img>
+                            <img className="designers-pic" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631268786/Alcove%20spider/pexels-ekaterina-bolovtsova-4049870_ektefn.jpg" alt=""></img>
                         {/* </div> */}
                     </div>
                 </div>

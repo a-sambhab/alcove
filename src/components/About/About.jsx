@@ -18,10 +18,10 @@ const About = () => {
         <>
             <div id="about" className="aboutsection">
                 <div className="aboutleft">
-                    <img id="about1" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630332269/alcove/about1_htpuww.jpg" alt="about1"/>
-                    <img id="about2" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630332208/alcove/about2_ele7lt.jpg" alt="about2"/>
-                    <img id="about3" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630332204/alcove/about_3_fp1ptq.jpg" alt="about3"/>
-                    <img id="about4" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630332203/alcove/about_4_eifo6q.jpg" alt="about4"/>
+                    <img id="about1" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631268365/Alcove%20spider/about1_vldgeq.jpg" alt="about1"/>
+                    <img id="about2" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631270773/Alcove%20spider/home_1_vomyji.jpg" alt="about2"/>
+                    <img id="about3" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631268365/Alcove%20spider/about_3_zhzsgy.jpg" alt="about3"/>
+                    <img id="about4" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631268365/Alcove%20spider/about_4_c6l551.jpg" alt="about4"/>
                     <div className="aboutdesign"></div>
                 </div>
                     <div className="svg-aboutsection-topleftdiv"><img classname="svg-aboutsection-topleft" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630684569/alcove/orange_top_left_z7kpbg.svg" alt=""/></div>
