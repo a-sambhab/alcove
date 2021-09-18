@@ -1,5 +1,34 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
+  <a href="https://alcove-istebits.netlify.app/">
+    <img alt="Alcove ISTEBITS" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631218435/alcove/alcove_white_logo_a8hxhg.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Alcove ISTEBITS
+</h1>
+
+
+
+## What is Alcove
+Alcove is a one-stop solution to all your interior design needs. Starting from decor products to consultation to renovation of the whole house, we will handle it all with utmost proffesional touch.
+
+<p align="center">
+  <a href="https://alcove-istebits.netlify.app/">
+    <img alt="Alcove ISTEBITS" src="https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631280213/Alcove%20spider/alcove_iste_bits_tzh4l3.png" width="1000" />
+  </a>
+</p>
+
+## How we built it 🧑‍💻
+We used Gatsby as the framework of Javascript to work on. As, Gatsby provides the best in SEO and PWA we moved to it after starting the initial work in React. Different Components were built by both of us and were incorporated along as we went on with developing. But later we shifted into gatsby for better SEO and PWA.
+
+## Challenges we ran into 🥺
+Gatsby was a completely new topic for us. That being said SEO and PWA were completely alien to us as we had no experience what so ever. So in order to optimise we had to learn form different websites and youtube channels along with looking into various documentations.
+
+## Accomplishments that we're proud of 😎
+We were able to learn and implement our ideas in gatsby along with being able to learn and code the concepts of SEO and PWA as well. THis was a feat that seemed a bit far-fetched when we started but as we went along we conquered these on the way.
+
+<p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
