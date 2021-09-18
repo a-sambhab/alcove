@@ -16,13 +16,13 @@
 }
 .shoplandhead h1{
     text-transform: uppercase;
-    font-size: 10rem;
+    font-size: 8rem;
     border-bottom: 10px solid #D77512;
     border-radius: 5px;
     text-align: center;
     color: #A1C7C5;
     font-family: Big Shoulders Display;
-    letter-spacing: 20px;
+    letter-spacing: 15px;
 }
 .shoplandimg{
     height: 70vh;
@@ -119,5 +119,18 @@
         padding-left: 0px;
         justify-items: center;
         grid-template-columns: 1fr;
+    }
+
+    .servicespage h1, .shoplanding .topsection-servicespage h1 {
+        position: absolute;
+        bottom: 0;
+        text-align: left;
+        background: linear-gradient(to left, transparent, black);
+        color: #D77512;
+        /* align-items: flex-end; */
+        font-size: 65px;
+        letter-spacing: 15px;
+        text-transform: uppercase;
+        font-family: Big Shoulders Display;
     }
 }

@@ -7,21 +7,21 @@ const Shopsecdata = [
     {
         name:"Flower vase",
         img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519651/alcove/pexels-ekaterina-bolovtsova-9130691-removebg-preview_ontnsw.png",
-        pricea:"$40.",
+        pricea:"$20.",
         priceb:"99",
         back:"#32564C"
     },
     {
         name:"Table Lamp",
         img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        pricea:"$35.",
         priceb:"99",
         back:"#32564C"
     },
     {
         name:"Hanging light",
         img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/nick-fewings-0vbFBOyZnA0-unsplash-removebg-preview_br8ujn.png",
-        pricea:"$40.",
+        pricea:"$29.",
         priceb:"99",
         back:"#32564C"
     }

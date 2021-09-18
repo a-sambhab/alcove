@@ -8,41 +8,41 @@ const Lightdata = [
     {
         name:"Table Lamp",
         img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        pricea:"$35.",
         priceb:"99",
         back:"#32564C"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Solar Light",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982129/Alcove%20spider/more-lighting-products_2_wxjh9w.png",
+        pricea:"$30.",
         priceb:"99",
         back:"#32564C"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Pendent Lamp",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982130/Alcove%20spider/81KIJU4JwfL._SL1500_-removebg-preview_chvffw.png",
+        pricea:"$27.",
         priceb:"99",
         back:"#32564C"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Colson Pendant",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982130/Alcove%20spider/Interior-Design-Euroluce-Brokis-removebg-preview_veapbm.png",
+        pricea:"$86.",
         priceb:"99",
         back:"#32564C"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Socket Bulbs",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982131/Alcove%20spider/719hNBdAiPL._AC_SX500_SY500_-removebg-preview_gok5qb.png",
+        pricea:"$45.",
         priceb:"99",
         back:"#32564C"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
+        name:"Multi Lamps",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982215/Alcove%20spider/images__3_-removebg-preview_etwxbd.png",
         pricea:"$40.",
         priceb:"99",
         back:"#32564C"
@@ -51,88 +51,88 @@ const Lightdata = [
 
 const Furniture = [
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
+        name:"Wall Clock",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982441/Alcove%20spider/image-removebg-preview_4_f3bph0.png",
         pricea:"$40.",
         priceb:"99",
         back:"#32564C"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Glass Mirrors",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982442/Alcove%20spider/image-removebg-preview_3_ezlnsm.png",
+        pricea:"$38.",
         priceb:"99",
         back:"#32564C"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Monet Bird",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982443/Alcove%20spider/image-removebg-preview_dovqnn.png",
+        pricea:"$54.",
         priceb:"99",
         back:"#32564C"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Rosemary Plant",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982443/Alcove%20spider/image-removebg-preview_2_wrilif.png",
+        pricea:"$30.",
         priceb:"99",
         back:"#32564C"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Vintage Candle",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982444/Alcove%20spider/image-removebg-preview_1_tsxgkx.png",
+        pricea:"$44.",
         priceb:"99",
         back:"#32564C"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Money Plant",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982444/Alcove%20spider/image-removebg-preview_5_jz7npm.png",
+        pricea:"$56.",
         priceb:"99",
         back:"#32564C"
     }
 ]
 const Decordata = [
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Circular Sofa",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982876/Alcove%20spider/image-removebg-preview_11_vglvhd.png",
+        pricea:"$140.",
         priceb:"99",
         back:"#97ABA6"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Lounge Chair",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982444/Alcove%20spider/image-removebg-preview_6_gixksv.png",
+        pricea:"$170.",
         priceb:"99",
         back:"#97ABA6"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Sheesam Sofa",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982877/Alcove%20spider/image-removebg-preview_9_tbofwa.png",
+        pricea:"$380.",
         priceb:"99",
         back:"#97ABA6"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Maurice Table",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982876/Alcove%20spider/image-removebg-preview_7_ka5uue.png",
+        pricea:"$470.",
         priceb:"99",
         back:"#97ABA6"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Seaward Sofa",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982876/Alcove%20spider/image-removebg-preview_10_gwjmga.png",
+        pricea:"$280.",
         priceb:"99",
         back:"#97ABA6"
     },
     {
-        name:"Table Lamp",
-        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1630519652/alcove/e7baf979310c78231e1ca85583c5ffc1-removebg-preview_djs16p.png",
-        pricea:"$40.",
+        name:"Charlie Chair",
+        img:"https://res.cloudinary.com/dzbdnlr0f/image/upload/v1631982876/Alcove%20spider/image-removebg-preview_8_m9j7xb.png",
+        pricea:"$440.",
         priceb:"99",
         back:"#97ABA6"
     }
@@ -174,7 +174,7 @@ const ShopPage = () => {
                 </div>
                 <div className="decorprods">
                     <div className="shoplandhead">
-                        <h1>Decor Products</h1>
+                        <h1>Furniture</h1>
                     </div>
                     <div className="decorsec">
                         {Decordata.map(function ncards(val){
@@ -192,7 +192,7 @@ const ShopPage = () => {
                 </div>
                 <div className="furniture">
                     <div className="shoplandhead">
-                        <h1>Furniture</h1>
+                        <h1>Decor Products</h1>
                     </div>
                     <div className="furnsec">
                         {Furniture.map(function ncards(val){
