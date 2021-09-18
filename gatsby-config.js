@@ -15,6 +15,14 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        host: 'https://alcove-istebits.netlify.app',
+        sitemap: 'https://alcove-istebits.netlify.app/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: "Alcove ISTEBITS",
